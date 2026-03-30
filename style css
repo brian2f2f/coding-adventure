@@ -1,0 +1,53 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+
+
+
+nav{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+    background-color: #cafdff;
+}
+
+header{
+ background-color: #cadcff;  
+ height: cal(100vh - 70pc);
+ padding: 24px;
+ display: flex;
+ align-items: center;
+ justify-contents: center;
+}
+
+h1 {
+  font-size 72px;
+}
+
+p {
+    
+}
+a{
+    color: #800;
+    font-size: 24px;
+    font=weight: 700px;
+}
+.logo{
+
+
+  width: 300px;
+}
+
+ul{
+ display: flex;   
+}
+
+li{
+  list=style-type: none; 
+  padding-left: 16px 
+}
